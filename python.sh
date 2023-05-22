@@ -1,0 +1,1 @@
+python3 -c 'from coral.cloudiot.ecc608 import ecc608_serial; print("ATECC608A Serial:", ecc608_serial())'
